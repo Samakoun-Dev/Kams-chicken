@@ -3,7 +3,7 @@
 ![Capture d'écran](screenshot.png)
 
 ## 🌐 Site web en ligne
-👉 **Visitez le site :** https://samakoun-dev.github.io/Kams-chicken/
+👉 **Visitez le site :** https://github.com/Samakoun-Dev/Kams-chicken.git/
 
 ## 🚀 Technologies utilisées
 - HTML5
